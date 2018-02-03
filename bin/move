@@ -3,5 +3,5 @@
 require_relative '../lib/move.rb'
 
 puts "Welcome to Tic Tac Toe!"
-puts "Where would you like to go? Input a number from 1-9 to move in the corresponding positions."
-display_board([1,2,3,4,5,6,7,8,9])  
+puts "Where would you like to go?"
+move = gets.to_i
