@@ -11,3 +11,7 @@ end
 def input_to_index(move)
   sd
 end
+
+def move(a,b,c)
+  sd
+end
